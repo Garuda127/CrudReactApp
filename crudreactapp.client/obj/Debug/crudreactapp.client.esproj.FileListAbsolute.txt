@@ -1,0 +1,1 @@
+D:\Github\CrudReactApp\crudreactapp.client\obj\Debug\crudreactapp.client.esproj.CoreCompileInputs.cache
